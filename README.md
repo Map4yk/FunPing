@@ -26,12 +26,12 @@ Score = (Hops/MaxHops) * 0.7 + (Ping/MaxPing) * 0.3
 ## 🚀 Быстрый запуск
 Через cmd.exe от имени администратора:
 ```cmd
-powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'ССЫЛКА')"
+powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/Map4yk/FunPing/refs/heads/master/Main.ps1')"
 ```
 
 Через PowerShell от имени администратора:
 ```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Invoke-Expression (Invoke-RestMethod 'ССЫЛКА')
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/Map4yk/FunPing/refs/heads/master/Main.ps1')
 ```
 
 ## 📥 Локальный запуск
