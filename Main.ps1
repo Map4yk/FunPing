@@ -1,3 +1,5 @@
+// GitHub https://github.com/Map4yk/FunPing
+
 $servers = @(
     "play2.funtime.su:25565",
     "mc.funtime.su:25565",
