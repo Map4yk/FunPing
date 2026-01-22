@@ -1,5 +1,5 @@
-// GitHub https://github.com/Map4yk/FunPing
-// Author: Map4yk
+# GitHub https://github.com/Map4yk/FunPing
+# Author: Map4yk
 
 $servers = @(
     "play2.funtime.su:25565",
