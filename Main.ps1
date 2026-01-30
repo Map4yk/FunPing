@@ -1,17 +1,8 @@
 $servers = @(
-    "play2.funtime.su:25565",
-    "mc.funtime.su:25565",
-    "tcp.funtime.sh:25565",
-    "neo.funtime.sh:25565",
-    "connect.funtime.su:25565",
-    "tt.funtime.su:25565",
-    "test-tcp.funtime.sh:25565",
-    "test-neo.funtime.sh:25565",
-    "tcpshield.funtime.me:25565",
-    "neoprotect.funtime.me:25565",
     "tcpshield.funtime.su:25565",
     "neoprotect.funtime.su:25565",
-    "tcpshield-ovh.funtime.su:25565"
+    "tcpshield.funtime.me:25565",
+    "neoprotect.funtime.me:25565"
 )
 
 function Test-Port {
